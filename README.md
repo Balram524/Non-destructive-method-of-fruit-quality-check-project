@@ -168,15 +168,46 @@ To understand the basic details of IR imaging go through the link below:<br>
 <br>
 Preferred research paper:(https://link.springer.com/article/10.1007/s10921-021-00778-6)
 <br>
-**Outcomes:**
+
+### Outcomes:
+
 The apple defect detection accuracy by the proposed Naïve Bayes classifier is observed to be 97.6% for thermal IR imaging samples whereas true color (RGB)based achieved only 59% for the same sample.
 <br>
 <center>
  <img src="https://jift.irost.ir/data/jift/coversheet/341651049290.jpg" width="400" height="300">
 </center>
 <br>
+<center>
+ <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10921-021-00778-6/MediaObjects/10921_2021_778_Fig1_HTML.png?as=webp" width="400" height="300">
+</center>
+<br>
+
 ## Thermal images by using the Flir Camera:
 
+The FLIR ONE® Gen 3 is an affordable smartphone attachment thermal imaging camera designed to help professionals find problems faster and get more work done in less time. With MSX® (Multi-Spectral Dynamic Imaging) technology, which enhances thermal images by embossing details from the visual camera onto the thermal image. FLIR ONE® Gen 3 cameras also provide a OneFit™ connector that adjusts and extends up to 4 mm to fit many popular protective cases.
+Whether inspecting electrical panels, looking for HVAC problems, or finding water damage, FLIR ONE® Gen 3 thermal imaging cameras enable users of all experience levels to work efficiently while on-the-go. The FLIR ONE Gen 3, FLIR ONE Pro, and FLIR ONE Pro LT are not compatible with iPhone 15 and later models. For iOS customers with USB-C ports, we recommend the FLIR ONE Edge or FLIR ONE Edge Pro. Check mobile devices compatibility.
+
+## SPECIFICATIONS: <br>
+
+Thermal Resolution:	80x60 <br>
+Battery Life:	Approximately 1h <br>
+Object Temperature Range:	-20°C — 120°C (–4°F — 248°F) <br>
+Phone	:Android <br>
+Accuracy	: ±3°C or ±5%, typical Percent ofthe difference between ambient and scene temperature. Applicable 60s after start-up when the unit is within 15 °C – 35 °C and the scene is within 5 °C – 120 °C. <br>
+Operating Temperature:	0 °C – 35 °C (32°F – 95°F) , battery charging 0 °C – 30 °C (32°F – 86°F) <br>
+Spot Meter	One spot meter (centered). <br>
+<center>
+ <img src="https://www.flir.com/globalassets/imported-assets/image/flirone-gen3-consumer.png" width="400" height="300">
+</center>
+<br>
+For more information follow the link below:
+(https://www.flir.com/search/?query=flir+one)
+
+<br>
+For step by step integration of flir one android camera to phone follow the youtube channel:
+(https://www.youtube.com/user/FLIRThermography/search)
+<br>
+For user details manual guide: **(https://www.flir.com/globalassets/imported-assets/document/flir-one-pro-user-guide-3rd-gen-en.pdf).**
 
 
 
