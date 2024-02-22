@@ -132,7 +132,50 @@ The sensor has I2C pins as SDA (Serial Data) & SCL (Serial Clock) with an I2C ad
 4. Datasheet and user information (https://cdn.sparkfun.com/assets/learn_tutorials/8/3/0/AS7265x_Datasheet.pdf).<br>
 5. YouTube link for the interfacing the sensors (https://youtu.be/qdHy9j06gng).<br>
 6. Github link for getting the library (https://github.com/sparkfun/SparkFun_AS7265x_Arduino_Library).<br>
-7. ASM parent production company of sensors datasheet
+
+### Near infrared rays: <br>
+Thermal IR imaging detects the heat from the surface of the fruit. Due to defective tissues of fruit pulp, the non-uniform temperature difference is observed and sensed on the surface of the fruit.
+Thermal IR Imaging:<br>
+├── Infrared Radiation:
+  	1. All objects emit infrared radiation.
+  	2. Depends on temperature.
+   <br>
+├── Sensor Detection:
+  	1. Infrared detectors (e.g., microbolometers).
+  	2. Capture infrared radiation.
+   <br>
+├── Image Formation: 
+   	1. Process electrical signals.
+    <br>
+├── Temperature Mapping:
+   	1. Assign colors or shades based on temperature.
+<br>
+<center>
+ <img src="https://www.ept.ca/wp-content/uploads/2016/10/16OTD202_TM2.jpg" width="400" height="300">
+</center>
+This is what we have made in our project and for that reference we have attached a image below which depict the working of near infrared rays imaging.
+<br>
+<center>
+ <img src="https://jift.irost.ir/data/jift/coversheet/341651049290.jpg" width="400" height="300">
+</center>
+<br>
+To understand the basic details of IR imaging go through the link below:<br>
+ (https://youtu.be/7_fgNpi3Jrw?si=Szzk7JiQWpe-qLcx).<br>
+
+## Literature work: <br>
+### Model-2: Fruit Defect Prediction Model (FDPM).
+### Based on: Thermal IR imaging, image processing and deep learning.
+<br>
+Preferred research paper:(https://link.springer.com/article/10.1007/s10921-021-00778-6)
+<br>
+**Outcomes:**
+The apple defect detection accuracy by the proposed Naïve Bayes classifier is observed to be 97.6% for thermal IR imaging samples whereas true color (RGB)based achieved only 59% for the same sample.
+<br>
+<center>
+ <img src="https://jift.irost.ir/data/jift/coversheet/341651049290.jpg" width="400" height="300">
+</center>
+<br>
+## Thermal images by using the Flir Camera:
 
 
 
