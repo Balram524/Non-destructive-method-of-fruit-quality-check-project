@@ -1,19 +1,21 @@
 #  **Non-destructive method of fruit quality check project**
+
 ## Description: 
+
 In this project, We would check the quality of the pome fruits like apple,orange and sapota etc. without cutting them internally. 
 we have used the multiple gas sensors and multispectral sensors for getting the data of different fruits and uploaded to the machine learning model to detect the quality of that fruits.
-The integration of multiple sensors, including MQ-3, MQ-4, DHT11, Infrared (IR), Ultrasonic, and 
-Sound sensors with an Arduino Uno on a breadboard to develop a non-destructive method for fruit 
-spoilage detection. After this, it will outline the successful integration of the AS7265x 
-spectral sensor with an Arduino Uno microcontroller to capture the data on the serial monitor and display 18 different spectral 
-readings using the serial plotter.
+The integration of multiple sensors, including MQ-3, MQ-4, DHT11, Infrared (IR), Ultrasonic, and Sound sensors with an Arduino Uno on a breadboard to develop a non-destructive 
+method for fruit spoilage detection. After this, it will outline the successful integration of the AS7265x spectral sensor with an Arduino Uno microcontroller to capture the
+data on the serial monitor and display 18 different spectral readings using the serial plotter.
+
 ## Hardware used:
+
 1. <ins> MQ3-Alcohol sensors: </ins>
-The MQ-3 gas sensor is a crucial component in the field of gas detection and monitoring of fruit ripening condittions and
-spoilage through the emitted gases concentrations like ethanol. This sensor is widely used in applications such as gas leak
-detection,breath analysis, and industrial safety.
+The MQ-3 gas sensor is a crucial component in the field of gas detection and monitoring of fruit ripening condittions andspoilage through the emitted gases concentrations
+like ethanol. This sensor is widely used in applications such as gas leakdetection,breath analysis, and industrial safety.
 
 **Working Principle:**
+
 The MQ-3 gas sensor operates based on the principle of semiconductor conductivity. It consists of a sensing element made of tin dioxide (SnO2),
 which exhibits a change in electrical conductivity in the presence of specific gases. When the target gas comes into contact with the sensor,
 it causes a change in resistance, leading to a measurable electrical signal.
@@ -28,6 +30,7 @@ fruit quality check.
 It operates on the principle of metal oxide semiconductors.
 
 **Gas detection:**
+
 When the sensor is powered on, the heating element heats the metal oxide semiconductor coating on the sensing element. In the presence of target gases such as methane or propane,
 the conductivity of the metal oxide semiconductor changes. This change in conductivity is due to the chemical reaction between the gas molecules and the metal oxide surface.
 
@@ -40,7 +43,10 @@ The MQ-135 is a gas sensor widely used for detecting a variety of air pollutants
 the MQ-135 includes a built-in heating element, typically made of a fine coil of platinum wire. This heating element heats the sensing element to a specific temperature
 (usually around 200-400°C) required for the sensor to operate.
 
-**Output Signal:** The MQ-135 sensor provides an output voltage or current signal that is proportional to the concentration of the target gas in the environment. This signal can be processed and interpreted by a microcontroller
+**Output Signal:** 
+
+The MQ-135 sensor provides an output voltage or current signal that is proportional to the concentration of the target gas in the environment. 
+This signal can be processed and interpreted by a microcontroller
 or other electronic devices to determine the presence and concentration of the gas.
  <center>
    <img src="https://moviltronics.com/wp-content/uploads/2021/02/M30032-1.jpg" width="400" height="300">
@@ -50,6 +56,7 @@ The DHT11 is a widely-used digital temperature and humidity sensor, known for it
 to measure both temperature and humidity in a single device, providing a convenient solution for environmental monitoring.
 
 **Working Principle:** 
+
 The DHT11 sensor operates based on a capacitive humidity 
 sensing element and a thermistor for temperature measurement. The humidity sensing element measures changes in capacitance, while the thermistor 
 measures temperature. The sensor converts these measurements into digital signals, providing accurate and easy-to-read data.
@@ -59,7 +66,9 @@ measures temperature. The sensor converts these measurements into digital signal
 5.<ins> Infrared Sensor: </ins>
 Infrared sensors are devices that detect and measure infrared radiation emitted or reflected by objects.
 
-**Working Principle:** Infrared sensors operate based on the principle that all objects with a temperature above absolute zero emit infrared radiation.
+**Working Principle:**
+
+Infrared sensors operate based on the principle that all objects with a temperature above absolute zero emit infrared radiation.
 These sensors detect this radiation and convert it into an electrical signalthat can be interpreted by electronic devices.
 The sensor then converts this radiation into an electrical signal, enabling the measurement and analysis of temperature or the presence of objects.
 <center>
@@ -71,6 +80,7 @@ Ultrasonic distance sensors measure the distance to an object and are often used
 and object detection in industrial settings.
 
 **Working Principle:**
+
  Ultrasonic sensors emit high-frequency sound waves (ultrasonic waves) and measure the time it takes for the sound waves to bounce back after hitting an object.
  By calculating the time taken for the sound waves to return and knowing the speed of sound in the medium, the sensor can determine the distance to the object.
  The basic setup includes a transducer that converts electrical energy into ultrasonic waves and vice versa.
@@ -87,16 +97,19 @@ into an electrical signal, which is then amplified and processed by the power am
 back into a sound signal for listening.
 
 ## Working Principle:
+
 Sound sensors operate based on the conversion of acoustic waves into electrical signals. They typically consist of a microphone or a transducer that converts 
 variations in air pressure caused by sound waves into electrical voltage. The generated electrical signal can then be processed and analysed for various applications.
 <center>
    <img src="https://th.bing.com/th/id/OIP.9N4T_pEBkGW5aFsAifTB5QHaG1?rs=1&pid=ImgDetMain" width="400" height="300">
    </center>
+   
 8. <ins> Arduino Uno Microcontroller: </ins>
 The Arduino Uno is a widely-used open-source microcontroller board that has gained immense popularity in the maker and electronics communities.
 Developed by Arduino LLC, the Arduino Uno is recognized for its versatility, ease of use, and robust capabilities.
 
 ## Key Features:
+
 <p style="color:blue">
 >> Microcontroller: The Arduino Uno is built around the Atmel ATmega328P microcontroller, providing a clock speed of 16 MHz.<br>
 >> Digital and Analog I/O Pins: It features 14 digital input/output pins and 6 analog input pins, offering flexibility for a wide range of projects.<br>
@@ -107,8 +120,7 @@ Developed by Arduino LLC, the Arduino Uno is recognized for its versatility, eas
    <img src="https://1.bp.blogspot.com/-RxYW5bGrV5w/X7BeNBOwvHI/AAAAAAAAKAQ/jTmAoVpkftEHENKfqfAVO7O6DgTqvewzgCLcBGAsYHQ/s2048/Arduino%20UNO%20Pinout.png" width="400" height="300">
    </center> <br>
 9.  <p style="color:Yellow">AS7265x Spectral Sensor:</p>
-The AS7265x is a multispectral sensor designed for spectral analysis, allowing precise measurement of differnt intensities at various wavelengths of light. Developed by ams AG, this sensor is 
-known for its integration of Eighteen independent optical filters, providing accurate spectral data.
+The AS7265x is a multispectral sensor designed for spectral analysis, allowing precise measurement of differnt intensities at various wavelengths of light. Developed by ams AG, this sensor is known for its integration of Eighteen independent optical filters, providing accurate spectral data.
 The AS7265x is the simplest Triad Spectroscopy Sensor from Sparkfun which can also be called a Spectrophotometer. The sensor is formed by combining three sensors AS72651, AS72652 & AS72653.
 The AS72651 is for measuring the visible light spectrum. Similarly, AS72652 is for measuring UV Light. The AS72653 is an IR Sensor for measuring IR Radiation. 
 The sensor also has a 4Mbit EEPROM which is loaded by the firmware which drives the system. The EEPROM is read by the AS72651 at power on.<br>
@@ -121,11 +133,15 @@ The sensor has I2C pins as SDA (Serial Data) & SCL (Serial Clock) with an I2C ad
 <center>
  <img src="https://how2electronics.com/wp-content/uploads/2021/01/AS7265x-Pins-300x200.jpg" width="400" height="300">
 </center>
+
 ## Features:<br>
+
 >> Eighteen Independent Channels: The AS7265x sensor features Eighteen independent spectral channels, covering wavelengths from approximately 410 nm to 940 nm.<br>
 >> Integration of Filters: Each channel includes a filter that allows selective measurement of specific wavelength ranges, enabling accurate spectral analysis.<br>
 >> Digital Interface: The sensor communicates with external devices through an I2C digital interface, facilitating easy integration into various electronic systems.<br>
+
 ### For more information follow the links: <br>
+
 1. For getting the spark fun triad spectroscopy (https://www.sparkfun.com/products/15050).</br>
 2. AS7265x Multispectral Triad spectroscopy sensor userguide (https://ams.com/documents/20143/36005/AS7265x_UG000393_1-00.pdf/94834780-df46-557b-2fc7-2b87fb24aa52).<br>
 3. Interfacing Triad Spectroscopy Sensor AS7265x with Arduino uno (https://how2electronics.com/interfacing-triad-spectroscopy-sensor-as7265x-with-arduino/).<br>
@@ -134,6 +150,7 @@ The sensor has I2C pins as SDA (Serial Data) & SCL (Serial Clock) with an I2C ad
 6. Github link for getting the library (https://github.com/sparkfun/SparkFun_AS7265x_Arduino_Library).<br>
 
 ### Near infrared rays: <br>
+
 Thermal IR imaging detects the heat from the surface of the fruit. Due to defective tissues of fruit pulp, the non-uniform temperature difference is observed and sensed on the surface of the fruit.
 Thermal IR Imaging:<br>
 ├── Infrared Radiation:
@@ -163,8 +180,11 @@ To understand the basic details of IR imaging go through the link below:<br>
  (https://youtu.be/7_fgNpi3Jrw?si=Szzk7JiQWpe-qLcx).<br>
 
 ## Literature work: <br>
+
 ### Model-2: Fruit Defect Prediction Model (FDPM).
+
 ### Based on: Thermal IR imaging, image processing and deep learning.
+
 <br>
 Preferred research paper:(https://link.springer.com/article/10.1007/s10921-021-00778-6)
 <br>
@@ -208,6 +228,8 @@ For step by step integration of flir one android camera to phone follow the yout
 (https://www.youtube.com/user/FLIRThermography/search)
 <br>
 For user details manual guide: **(https://www.flir.com/globalassets/imported-assets/document/flir-one-pro-user-guide-3rd-gen-en.pdf).**
+
+## Some of the samples of thermal images of apple:
 
 
 
