@@ -181,7 +181,7 @@ To understand the basic details of IR imaging go through the link below:<br>
 
 ## Literature work: <br>
 
-### Model-2: Fruit Defect Prediction Model (FDPM).
+### Model-1: Fruit Defect Prediction Model (FDPM).
 
 ### Based on: Thermal IR imaging, image processing and deep learning.
 
@@ -200,6 +200,16 @@ The apple defect detection accuracy by the proposed Naïve Bayes classifier is o
 <center>
  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10921-021-00778-6/MediaObjects/10921_2021_778_Fig1_HTML.png?as=webp" width="400" height="300">
 </center>
+<br>
+### Model-2: 
+
+The world’s first pocket-sized connected micro-spectrometer." Developed by San Francisco and Israel-based company [Consumer Physics](https://www.consumerphysics.com/business/about-consumer-physics/).
+More more information: [click](https://learn.sparkfun.com/tutorials/scio-pocket-molecular-scanner-teardown-/all).
+
+<center>
+ <img src="https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/6/5/7/SCiO_Teardown_01.jpg" width="400" height="300">
+</center>
+
 <br>
 
 ## Thermal images by using the Flir Camera:
@@ -229,19 +239,22 @@ For step by step integration of flir one android camera to phone follow the yout
 <br>
 For user details manual guide: **(https://www.flir.com/globalassets/imported-assets/document/flir-one-pro-user-guide-3rd-gen-en.pdf)**.
 
-## Some of the samples of thermal images of apple: <br>
+## Some of the samples of thermal images of apple: 
+<br>
 <div style="display:flex;">
-    <img src=""C:\Users\asus\Desktop\Desktop\iit k\material\images\WhatsApp Image 2023-12-23 at 3.39.35 PM (1).jpeg"" alt="Image 1" style="width:33%;">
-    <img src="image2.jpg" alt="Image 2" style="width:33%;">
-    <img src="image3.jpg" alt="Image 3" style="width:33%;">
+    <img src="/project images/3.jpeg" alt="Image 1" style="width:33%;">
+    <img src="/project images/2.jpeg" alt="Image 2" style="width:33%;">
+    <img src="/project images/6.jpeg" alt="Image 3" style="width:33%;">
 </div>
+
 Images at different temp:
 
 <center>
- <img src=""C:\Users\asus\Desktop\Desktop\iit k\material\images\analyze thermal image.png"" width="400" height="300">
+ <img src="/project images/21.jpeg" width="400" height="300">
 </center>
 <br>
-![Analyze the images at different temp](Users\asus\Desktop\Desktop\iit k\material\images\analyze thermal image.png)
+Analyze the images at different temp:
+<img src="/project images/analyze thermal image.png" width="400" height="300">
 
 
 
