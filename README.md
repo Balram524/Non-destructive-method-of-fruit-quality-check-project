@@ -10,7 +10,7 @@ data on the serial monitor and display 18 different spectral readings using the 
 
 ## Hardware used:
 
-1. <ins> MQ3-Alcohol sensors: </ins>
+1. <ins>MQ3-Alcohol sensors:</ins>
 The MQ-3 gas sensor is a crucial component in the field of gas detection and monitoring of fruit ripening condittions andspoilage through the emitted gases concentrations
 like ethanol. This sensor is widely used in applications such as gas leakdetection,breath analysis, and industrial safety.
 
@@ -23,7 +23,7 @@ it causes a change in resistance, leading to a measurable electrical signal.
    <center>
    <img src="https://i0.wp.com/srituhobby.com/wp-content/uploads/2021/03/5-16.jpg?resize=1024%2C576&ssl=1" width="400" height="300">
    </center>
-2. <ins> MQ-4 Methane Gas Sensor: </ins>
+2. <ins>MQ-4 Methane Gas Sensor:</ins>
 MQ-4 is a type of gas sensor commonly used for detecting various gases in the environment, particularly methane (CH4), natural gas, propane, and other combustible gases.
 When the fruits get spoiled it releases the significant amount of this gas in the nearby enviornment and we will measure that concentration of data which will help us identify the 
 fruit quality check.
@@ -38,7 +38,7 @@ the conductivity of the metal oxide semiconductor changes. This change in conduc
    <img src="https://www.semiconductorforu.com/wp-content/uploads/2022/08/mq4-circuit.jpg" width="400" height="300">
    </center>
 
-3. <ins> MQ-135 Air Quality Gas Sensor: </ins>
+3. <ins>MQ-135 Air Quality Gas Sensor:</ins>
 The MQ-135 is a gas sensor widely used for detecting a variety of air pollutants such as ammonia (NH3), nitrogen oxides (NOx), benzene, smoke, and other harmful gases.
 the MQ-135 includes a built-in heating element, typically made of a fine coil of platinum wire. This heating element heats the sensing element to a specific temperature
 (usually around 200-400°C) required for the sensor to operate.
@@ -51,7 +51,7 @@ or other electronic devices to determine the presence and concentration of the g
  <center>
    <img src="https://moviltronics.com/wp-content/uploads/2021/02/M30032-1.jpg" width="400" height="300">
    </center>
-4.<ins> DHT11 Temperature and Humidity Sensor: </ins>
+4.<ins>DHT11 Temperature and Humidity Sensor:</ins>
 The DHT11 is a widely-used digital temperature and humidity sensor, known for its simplicity, affordability, and reliability.The DHT11 sensor is designed 
 to measure both temperature and humidity in a single device, providing a convenient solution for environmental monitoring.
 
@@ -63,7 +63,7 @@ measures temperature. The sensor converts these measurements into digital signal
 <center>
    <img src="https://th.bing.com/th/id/OIP.KLrGwnSP2cZjBG4HqgCKQAHaE5?rs=1&pid=ImgDetMain" width="400" height="300">
    </center>
-5.<ins> Infrared Sensor: </ins>
+5.<ins>Infrared Sensor:</ins>
 Infrared sensors are devices that detect and measure infrared radiation emitted or reflected by objects.
 
 **Working Principle:**
@@ -90,7 +90,7 @@ and object detection in industrial settings.
  <right>
 <img src="https://th.bing.com/th/id/OIP.kDDlalwjv7SEJg7x20WzKQHaDa?rs=1&pid=ImgDetMain" width="400" height="300">
    </right>
-7. <ins> Sound Sensor: </ins>
+7. <ins>Sound Sensor:</ins>
 Sound sensors, also known as sound detectors or acoustic sensors, are essential components in various technological applications, enabling the detection and 
 analysis of sound waves. A sound sensor typically consists of a microphone, a power amplifier, and an output actuator. The microphone converts the sound signal 
 into an electrical signal, which is then amplified and processed by the power amplifier. The output actuator, such as a loudspeaker, converts the electrical signal
@@ -104,7 +104,7 @@ variations in air pressure caused by sound waves into electrical voltage. The ge
    <img src="https://th.bing.com/th/id/OIP.9N4T_pEBkGW5aFsAifTB5QHaG1?rs=1&pid=ImgDetMain" width="400" height="300">
    </center>
    
-8. <ins> Arduino Uno Microcontroller: </ins>
+8. <ins>Arduino Uno Microcontroller:</ins>
 The Arduino Uno is a widely-used open-source microcontroller board that has gained immense popularity in the maker and electronics communities.
 Developed by Arduino LLC, the Arduino Uno is recognized for its versatility, ease of use, and robust capabilities.
 
@@ -222,14 +222,26 @@ Spot Meter	One spot meter (centered). <br>
 <br>
 For more information follow the link below:
 (https://www.flir.com/search/?query=flir+one)
-
 <br>
 For step by step integration of flir one android camera to phone follow the youtube channel:
+
 (https://www.youtube.com/user/FLIRThermography/search)
 <br>
-For user details manual guide: **(https://www.flir.com/globalassets/imported-assets/document/flir-one-pro-user-guide-3rd-gen-en.pdf).**
+For user details manual guide: **(https://www.flir.com/globalassets/imported-assets/document/flir-one-pro-user-guide-3rd-gen-en.pdf)**.
 
-## Some of the samples of thermal images of apple:
+## Some of the samples of thermal images of apple: <br>
+<div style="display:flex;">
+    <img src=""C:\Users\asus\Desktop\Desktop\iit k\material\images\WhatsApp Image 2023-12-23 at 3.39.35 PM (1).jpeg"" alt="Image 1" style="width:33%;">
+    <img src="image2.jpg" alt="Image 2" style="width:33%;">
+    <img src="image3.jpg" alt="Image 3" style="width:33%;">
+</div>
+Images at different temp:
+
+<center>
+ <img src=""C:\Users\asus\Desktop\Desktop\iit k\material\images\analyze thermal image.png"" width="400" height="300">
+</center>
+<br>
+![Analyze the images at different temp](Users\asus\Desktop\Desktop\iit k\material\images\analyze thermal image.png)
 
 
 
