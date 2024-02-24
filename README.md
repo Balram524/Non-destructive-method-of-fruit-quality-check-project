@@ -1,7 +1,7 @@
 #  **Non-destructive method of fruit quality check project**
 
   <center>
-  <img src="/project images/Orange_Quality check.jpeg" width="600" height="225">
+  <img src="/project images/Orange_Quality check.jpeg" width="600" height="400">
   </center>
    <br>
 ## Description: 
@@ -265,14 +265,14 @@ Analyze the images at different temp:
    For reference we have attached the image below:
 
    <center>
-   <img src="/project images/21.jpeg" width="400" height="225">
+   <img src="/project images/tinkercad.jpg" width="400" height="300">
    </center>
 <br>
 3. We have used the Fusion 360 designing software to design the model structure.
 
    Thanks to my team mate **@ [Ajaruddin Ansari(BTech,NIT Srinagar)](https://www.linkedin.com/in/ajaruddin-ansari-4b3793227/) and mentor @ Praveen Sir (PhD Scholar, Ele. dept IIT Kanpur)**.
    <center>
-   <img src="/project images/box cage.jpg" width="600" height="225">
+   <img src="/project images/box case.jpg" width="600" height="225">
    </center>
 <br>
    For better view [click here](https://drive.google.com/file/d/1cWxObDSwIwK7r6A5wAkmoK2MqrB4HHLq/view?usp=sharing).
@@ -305,7 +305,7 @@ Analyze the images at different temp:
 <div style="display:flex;">
     <img src="/project images/40.jpeg" alt="Image 1" style="width:33%;">
     <img src="/project images/analyze final readings.jpg" alt="Image 2" style="width:33%;">
-    <img src="/project images/apple orange det..jpg" alt="Image 3" style="width:33%;">
+    <img src="/project images/apple, orange det..jpg" alt="Image 3" style="width:33%;">
 </div>
 
 <br>
@@ -337,10 +337,12 @@ Analyze the images at different temp:
 
 Our mentor @ [Prof. Tushar Sandhan (EE,IIT Kanpur)](https://www.linkedin.com/in/tushar-sandhan-67644122/) for their contineous support and guidance and all the lab members.
 
-<center>
-     <img src="/project images/analyze 18 spectral.jpg" width="400" height="300">
-     </center>
-   <br>
+<div style="display:flex;">
+    <img src="/project images/final image.jpeg" alt="Image 1" style="width:33%;">
+    <img src="/project images/2.jpeg" alt="Image 2" style="width:33%;">
+    <img src="/project images/6.jpeg" alt="Image 3" style="width:33%;">
+</div>
+
 
 
 
