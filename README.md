@@ -1,5 +1,9 @@
 #  **Non-destructive method of fruit quality check project**
 
+  <center>
+  <img src="/project images/Orange_Quality check.jpeg" width="600" height="225">
+  </center>
+   <br>
 ## Description: 
 
 In this project, We would check the quality of the pome fruits like apple,orange and sapota etc. without cutting them internally. 
@@ -21,7 +25,7 @@ which exhibits a change in electrical conductivity in the presence of specific g
 it causes a change in resistance, leading to a measurable electrical signal.
 
    <center>
-   <img src="https://i0.wp.com/srituhobby.com/wp-content/uploads/2021/03/5-16.jpg?resize=1024%2C576&ssl=1" width="400" height="300">
+   <img src="https://i0.wp.com/srituhobby.com/wp-content/uploads/2021/03/5-16.jpg?resize=1024%2C576&ssl=1" width="400" height="225">
    </center>
 2. <ins>MQ-4 Methane Gas Sensor:</ins>
 MQ-4 is a type of gas sensor commonly used for detecting various gases in the environment, particularly methane (CH4), natural gas, propane, and other combustible gases.
@@ -35,7 +39,7 @@ When the sensor is powered on, the heating element heats the metal oxide semicon
 the conductivity of the metal oxide semiconductor changes. This change in conductivity is due to the chemical reaction between the gas molecules and the metal oxide surface.
 
    <center>
-   <img src="https://www.semiconductorforu.com/wp-content/uploads/2022/08/mq4-circuit.jpg" width="400" height="300">
+   <img src="https://www.semiconductorforu.com/wp-content/uploads/2022/08/mq4-circuit.jpg" width="400" height="225">
    </center>
 
 3. <ins>MQ-135 Air Quality Gas Sensor:</ins>
@@ -49,7 +53,7 @@ The MQ-135 sensor provides an output voltage or current signal that is proportio
 This signal can be processed and interpreted by a microcontroller
 or other electronic devices to determine the presence and concentration of the gas.
  <center>
-   <img src="https://moviltronics.com/wp-content/uploads/2021/02/M30032-1.jpg" width="400" height="300">
+   <img src="https://moviltronics.com/wp-content/uploads/2021/02/M30032-1.jpg" width="400" height="225">
    </center>
 4.<ins>DHT11 Temperature and Humidity Sensor:</ins>
 The DHT11 is a widely-used digital temperature and humidity sensor, known for its simplicity, affordability, and reliability.The DHT11 sensor is designed 
@@ -61,7 +65,7 @@ The DHT11 sensor operates based on a capacitive humidity
 sensing element and a thermistor for temperature measurement. The humidity sensing element measures changes in capacitance, while the thermistor 
 measures temperature. The sensor converts these measurements into digital signals, providing accurate and easy-to-read data.
 <center>
-   <img src="https://th.bing.com/th/id/OIP.KLrGwnSP2cZjBG4HqgCKQAHaE5?rs=1&pid=ImgDetMain" width="400" height="300">
+   <img src="https://th.bing.com/th/id/OIP.KLrGwnSP2cZjBG4HqgCKQAHaE5?rs=1&pid=ImgDetMain" width="400" height="225">
    </center>
 5.<ins>Infrared Sensor:</ins>
 Infrared sensors are devices that detect and measure infrared radiation emitted or reflected by objects.
@@ -72,7 +76,7 @@ Infrared sensors operate based on the principle that all objects with a temperat
 These sensors detect this radiation and convert it into an electrical signalthat can be interpreted by electronic devices.
 The sensor then converts this radiation into an electrical signal, enabling the measurement and analysis of temperature or the presence of objects.
 <center>
-   <img src="https://1.bp.blogspot.com/-ajhjn0zFnHU/Xj7MF95SdXI/AAAAAAAAAuY/4BfOksMpZcMDVKICPcVh5ska2HE81qw-ACLcBGAsYHQ/s1600/ir.jpg" width="400" height="300">
+   <img src="https://1.bp.blogspot.com/-ajhjn0zFnHU/Xj7MF95SdXI/AAAAAAAAAuY/4BfOksMpZcMDVKICPcVh5ska2HE81qw-ACLcBGAsYHQ/s1600/ir.jpg" width="400" height="225">
    </center>
 6. <ins> Ultrasonic Sensor: </ins>
 Ultrasonic sensors are devices that use ultrasonic sound waves to detect the presence, distance, and characteristics of objects in their vicinity.
@@ -84,12 +88,13 @@ and object detection in industrial settings.
  Ultrasonic sensors emit high-frequency sound waves (ultrasonic waves) and measure the time it takes for the sound waves to bounce back after hitting an object.
  By calculating the time taken for the sound waves to return and knowing the speed of sound in the medium, the sensor can determine the distance to the object.
  The basic setup includes a transducer that converts electrical energy into ultrasonic waves and vice versa.
- <center>
-   <img src="https://potentiallabs.com/cart/image/cache/catalog/sensor-de-distancia-ultrasonico-hc-sr04-D_NQ_NP_1363-MCO2913268742_072012-O-1000x1000w.jpg" width="400" height="300">
-   </center>
- <right>
-<img src="https://th.bing.com/th/id/OIP.kDDlalwjv7SEJg7x20WzKQHaDa?rs=1&pid=ImgDetMain" width="400" height="300">
-   </right>
+  <br>
+<div style="display:flex;">
+    <img src="https://potentiallabs.com/cart/image/cache/catalog/sensor-de-distancia-ultrasonico-hc-sr04-D_NQ_NP_1363-MCO2913268742_072012-O-1000x1000w.jpg" alt="Image 1" style="width:50%;">
+    <img src="https://th.bing.com/th/id/OIP.kDDlalwjv7SEJg7x20WzKQHaDa?rs=1&pid=ImgDetMain" alt="Image 2" style="width:50%;">
+
+</div>
+
 7. <ins>Sound Sensor:</ins>
 Sound sensors, also known as sound detectors or acoustic sensors, are essential components in various technological applications, enabling the detection and 
 analysis of sound waves. A sound sensor typically consists of a microphone, a power amplifier, and an output actuator. The microphone converts the sound signal 
@@ -126,13 +131,12 @@ The AS72651 is for measuring the visible light spectrum. Similarly, AS72652 is f
 The sensor also has a 4Mbit EEPROM which is loaded by the firmware which drives the system. The EEPROM is read by the AS72651 at power on.<br>
 The AS7265x Triad Spectroscopy Spectral Sensor detects the light from a wavelength of 410nm to 940nm. The sensor has the ability to measure 18 individual light
 frequencies with precision down to 28.6 nW/cm2 and accuracy of +/-12%. The sensor operates at a typical voltage of 3.3V.
-The sensor has I2C pins as SDA (Serial Data) & SCL (Serial Clock) with an I2C address of 0x49. The default baud rate for the sensor is 115200.<br>
-<center>
-   <img src="https://how2electronics.com/wp-content/uploads/2021/01/AS7265x-Triad-Spectroscopy-Sensor-640x345.jpg" width="400" height="300">
-   </center> <br>
-<center>
- <img src="https://how2electronics.com/wp-content/uploads/2021/01/AS7265x-Pins-300x200.jpg" width="400" height="300">
-</center>
+The sensor has I2C pins as SDA (Serial Data) & SCL (Serial Clock) with an I2C address of 0x49. The default baud rate for the sensor is 115200.
+<br>
+<div style="display:flex;">
+    <img src="https://how2electronics.com/wp-content/uploads/2021/01/AS7265x-Triad-Spectroscopy-Sensor-640x345.jpg" alt="Image 1" style="width:50%;">
+    <img src="https://how2electronics.com/wp-content/uploads/2021/01/AS7265x-Pins-300x200.jpg" alt="Image 2" style="width:50%;">
+</div>
 
 ## Features:<br>
 
@@ -193,26 +197,21 @@ Preferred research paper:(https://link.springer.com/article/10.1007/s10921-021-0
 
 The apple defect detection accuracy by the proposed Naïve Bayes classifier is observed to be 97.6% for thermal IR imaging samples whereas true color (RGB)based achieved only 59% for the same sample.
 <br>
-<center>
- <img src="https://jift.irost.ir/data/jift/coversheet/341651049290.jpg" width="400" height="300">
-</center>
-<br>
-<center>
- <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10921-021-00778-6/MediaObjects/10921_2021_778_Fig1_HTML.png?as=webp" width="400" height="300">
-</center>
+
+<div style="display:flex;">
+    <img src="https://jift.irost.ir/data/jift/coversheet/341651049290.jpg" alt="Image 1" style="width:50%;">
+    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10921-021-00778-6/MediaObjects/10921_2021_778_Fig1_HTML.png?as=webp" alt="Image 2" style="width:50%;">
+</div>
 <br>
 ### Model-2: Scio the pocket-sized device 
 
 The world’s first pocket-sized connected micro-spectrometer." Developed by San Francisco and Israel-based company [Consumer Physics](https://www.consumerphysics.com/business/about-consumer-physics/).
 More more information: [click](https://learn.sparkfun.com/tutorials/scio-pocket-molecular-scanner-teardown-/all).
 
-<center>
- <img src="https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/6/5/7/SCiO_Teardown_01.jpg" width="400" height="300">
-</center>
-<br>
-<center>
- <img src="/project image/scio.jpg" width="400" height="300">
-</center>
+<div style="display:flex;">
+    <img src="https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/6/5/7/SCiO_Teardown_01.jpg" alt="Image 1" style="width:50%;">
+    <img src="/project images/scio.jp" alt="Image 2" style="width:50%;">
+</div>
 <br>
 
 ## Thermal images by using the Flir Camera:
@@ -257,7 +256,72 @@ Images at different temp:
 </center>
 <br>
 Analyze the images at different temp:
-<img src="/project images/analyze thermal image.png" width="400" height="300">
+<img src="/project images/analyze thermal image.png" width="400" height="225">
+
+## Tools and software for Simulation:
+
+1. Arduino Ide to run the code and analyze the data.
+2. For simulations of code we have used the TinkerCad software.
+   For reference we have attached the image below:
+
+   <center>
+   <img src="/project images/21.jpeg" width="400" height="225">
+   </center>
+<br>
+3. We have used the Fusion 360 designing software to design the model structure.
+
+   Thanks to my team mate **@ [Ajarrudin Ansari(BTech,NIT Srinagar)](https://www.linkedin.com/in/ajaruddin-ansari-4b3793227/) and mentor @ Praveen Sir (PhD Scholar, Ele. dept IIT Kanpur)**.
+   <center>
+   <img src="/project images/box cage.jpeg" width="600" height="225">
+   </center>
+<br>
+   For better view [click here](https://drive.google.com/file/d/1cWxObDSwIwK7r6A5wAkmoK2MqrB4HHLq/view?usp=sharing).
+
+4. Eagle Cad Software for the designing of the **PCB**.
+   
+   Thanks to my team mate **@ [Prateek kumar (BTech, NIT Srinagar)](https://www.linkedin.com/in/prateek-kumar09/) and mentor @ Vijay Panday sir (PhD Scholar, Ele. dept IIT Kanpur)**.
+
+     <center>
+     <img src="/project images/pcb.jpeg" width="400" height="300">
+     </center>
+   <br>
+5. Make the connection of circuit on zero order PCB with the help of soldering tools.
+   Thanks to ** Ajay Kumar (MTech Student, IIT Kanpur)**.
+
+## **Final results and readings of multispectral and gas sensors data and integrated device**.
+
+### Final integration device:
+
+ <br>
+<div style="display:flex;">
+    <img src="/project images/47.jpeg" alt="Image 1" style="width:33%;">
+    <img src="/project images/42.jpeg" alt="Image 2" style="width:33%;">
+    <img src="/project images/41.jpeg" alt="Image 3" style="width:33%;">
+</div>
+   <br>
+~ ### Observation of different fruits:
+
+ <br>
+<div style="display:flex;">
+    <img src="/project images/40.jpeg" alt="Image 1" style="width:33%;">
+    <img src="/project images/analyze final readings.jpeg" alt="Image 2" style="width:33%;">
+    <img src="/project images/apple orange det.jpeg" alt="Image 3" style="width:33%;">
+</div>
+
+<br>
+~ Streaming data on MS-excel for better output analyzation through plotting.
+<center>
+     <img src="/project images/analyze 18 spectral.jpeg" width="400" height="300">
+     </center>
+   <br>
+
+## Some of the more **Research papers for the reference**.
+
+1.[Paper_1](https://elibrary.asabe.org/azdez.aspsearch=1&JID=5&AID=48072&CID=spo2017&v=&i=&T=1&urlRedirect=%5Banywhere%3D&
+keyword=&abstract=&title=on&author=&references=&docnumber=&journals=All&searchstring=&pg=&allwords=&exactphrase=&OneWord=&Action=Go&Post
+=Y&qu=%5D&redirType=newresults.asp&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Journal_of_the_ASABE_TrendMD_0).
+
+
 
 
 
