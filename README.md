@@ -210,7 +210,7 @@ More more information: [click](https://learn.sparkfun.com/tutorials/scio-pocket-
 
 <div style="display:flex;">
     <img src="https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/6/5/7/SCiO_Teardown_01.jpg" alt="Image 1" style="width:50%;">
-    <img src="/project images/scio.jp" alt="Image 2" style="width:50%;">
+    <img src="/project images/scio.jpg" alt="Image 2" style="width:50%;">
 </div>
 <br>
 
@@ -270,9 +270,9 @@ Analyze the images at different temp:
 <br>
 3. We have used the Fusion 360 designing software to design the model structure.
 
-   Thanks to my team mate **@ [Ajarrudin Ansari(BTech,NIT Srinagar)](https://www.linkedin.com/in/ajaruddin-ansari-4b3793227/) and mentor @ Praveen Sir (PhD Scholar, Ele. dept IIT Kanpur)**.
+   Thanks to my team mate **@ [Ajaruddin Ansari(BTech,NIT Srinagar)](https://www.linkedin.com/in/ajaruddin-ansari-4b3793227/) and mentor @ Praveen Sir (PhD Scholar, Ele. dept IIT Kanpur)**.
    <center>
-   <img src="/project images/box cage.jpeg" width="600" height="225">
+   <img src="/project images/box cage.jpg" width="600" height="225">
    </center>
 <br>
    For better view [click here](https://drive.google.com/file/d/1cWxObDSwIwK7r6A5wAkmoK2MqrB4HHLq/view?usp=sharing).
@@ -282,7 +282,7 @@ Analyze the images at different temp:
    Thanks to my team mate **@ [Prateek kumar (BTech, NIT Srinagar)](https://www.linkedin.com/in/prateek-kumar09/) and mentor @ Vijay Panday sir (PhD Scholar, Ele. dept IIT Kanpur)**.
 
      <center>
-     <img src="/project images/pcb.jpeg" width="400" height="300">
+     <img src="/project images/pcb.jpg" width="400" height="300">
      </center>
    <br>
 5. Make the connection of circuit on zero order PCB with the help of soldering tools.
@@ -304,22 +304,43 @@ Analyze the images at different temp:
  <br>
 <div style="display:flex;">
     <img src="/project images/40.jpeg" alt="Image 1" style="width:33%;">
-    <img src="/project images/analyze final readings.jpeg" alt="Image 2" style="width:33%;">
-    <img src="/project images/apple orange det.jpeg" alt="Image 3" style="width:33%;">
+    <img src="/project images/analyze final readings.jpg" alt="Image 2" style="width:33%;">
+    <img src="/project images/apple orange det..jpg" alt="Image 3" style="width:33%;">
 </div>
 
 <br>
 ~ Streaming data on MS-excel for better output analyzation through plotting.
 <center>
-     <img src="/project images/analyze 18 spectral.jpeg" width="400" height="300">
+     <img src="/project images/analyze 18 spectral.jpg" width="400" height="300">
      </center>
    <br>
 
 ## Some of the more **Research papers for the reference**.
 
-1.[Paper_1](https://elibrary.asabe.org/azdez.aspsearch=1&JID=5&AID=48072&CID=spo2017&v=&i=&T=1&urlRedirect=%5Banywhere%3D&
-keyword=&abstract=&title=on&author=&references=&docnumber=&journals=All&searchstring=&pg=&allwords=&exactphrase=&OneWord=&Action=Go&Post
-=Y&qu=%5D&redirType=newresults.asp&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Journal_of_the_ASABE_TrendMD_0).
+1.[Paper_1](https://elibrary.asabe.org/azdez.aspsearch=1&JID=5&AID=48072&CID=spo2017&v=&i=&T=1&urlRedirect=%5Banywhere%3D&keyword=&abstract=&title=on&author=&references=&docnumber=&journals=All&searchstring=&pg=&allwords=&exactphrase=&OneWord=&Action=Go&Post=Y&qu=%5D&redirType=newresults.asp&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Journal_of_the_ASABE_TrendMD_0)
+
+2.[Paper_2](https://onlinelibrary.wiley.com/doi/full/10.1111/jfpe.13816)
+
+3.[Paper_3](https://www.mdpi.com/2304-8158/12/15/2968)
+
+4.[Paper_4](https://www.degruyter.com/document/doi/10.1515/revac-2016-0016/html)
+
+                                                          *******
+
+### Contributers:
+
+1.[Balram NIshad(BTech,NIT Srinagar)](https://www.linkedin.com/in/balram-nishad/) (Project lead).
+2.[Prateek kumar(BTech,NIT Srinagar](https://www.linkedin.com/in/prateek-kumar09/)
+3.[Ajaruddin Ansari(BTech,NIT Srinagar)](https://www.linkedin.com/in/ajaruddin-ansari-4b3793227/)
+
+### Special thanks to:
+
+Our mentor @ [Prof. Tushar Sandhan (EE,IIT Kanpur)](https://www.linkedin.com/in/tushar-sandhan-67644122/) for their contineous support and guidance and all the lab members.
+
+<center>
+     <img src="/project images/analyze 18 spectral.jpg" width="400" height="300">
+     </center>
+   <br>
 
 
 
