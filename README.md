@@ -286,7 +286,7 @@ Analyze the images at different temp:
      </center>
    <br>
 5. Make the connection of circuit on zero order PCB with the help of soldering tools.
-   Thanks to ** Ajay Kumar (MTech Student, IIT Kanpur)**.
+   Thanks to **Ajay Kumar (MTech Student, IIT Kanpur)**.
 
 ## **Final results and readings of multispectral and gas sensors data and integrated device**.
 
