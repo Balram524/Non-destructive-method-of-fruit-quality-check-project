@@ -325,6 +325,11 @@ Analyze the images at different temp:
 
 4.[Paper_4](https://www.degruyter.com/document/doi/10.1515/revac-2016-0016/html)
 
+## Vision and Future applications:
+
+1. We can implement this device to the fruit farms to protect the early spoilage of fruits.
+2. Check the fruits before exporting and storage.
+
                                                           *******
 
 ### Contributers:
