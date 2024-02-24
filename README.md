@@ -202,7 +202,8 @@ The apple defect detection accuracy by the proposed Naïve Bayes classifier is o
     <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10921-021-00778-6/MediaObjects/10921_2021_778_Fig1_HTML.png?as=webp" alt="Image 2" style="width:50%; height:300px;">
 </div>
 <br>
-### Model-2: Scio the pocket-sized device 
+
+## Model-2: Scio the pocket-sized device 
 
 The world’s first pocket-sized connected micro-spectrometer." Developed by San Francisco and Israel-based company [Consumer Physics](https://www.consumerphysics.com/business/about-consumer-physics/).
 More more information: [click](https://learn.sparkfun.com/tutorials/scio-pocket-molecular-scanner-teardown-/all).
@@ -211,6 +212,7 @@ More more information: [click](https://learn.sparkfun.com/tutorials/scio-pocket-
     <img src="https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/6/5/7/SCiO_Teardown_01.jpg" alt="Image 1" style="width:50%; height:300px;">
     <img src="/project images/scio.jpg" alt="Image 2" style="width:50%; height:300px;">
 </div>
+
 <br>
 
 ## Thermal images by using the Flir Camera:
